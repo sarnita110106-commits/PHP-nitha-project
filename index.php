@@ -85,7 +85,7 @@
 
             <button type="submit">Kirim Pesan</button>
         </form>
-        <div class="footer">API v2.0.2 • Protected by Lavender Server</div>
+        <div class="footer">API v2.0.2 •challenge</div>
     </div>
 </body>
 </html>
